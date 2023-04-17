@@ -1,0 +1,5 @@
+Argentina::Gold::0::Silver::0::Bronze::0
+Colombia::Gold::0::Silver::0::Bronze::8
+Usa::Gold::0::Silver::0::Bronze::0
+Alemania::Gold::0::Silver::0::Bronze::0
+España::Gold::90::Silver::0::Bronze::0
